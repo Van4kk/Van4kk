@@ -4,12 +4,12 @@ My name is **Ionuț - Nicu** aka **Van4kk**. I'm 20 years old young boy from **R
 
 Here are some facts about me:
 
-- 🔭 I’m currently working on WEB application for **redBUS**
+- 🔭 I’m currently working on WEB application for [**redBUS**](http://chisinau-craiova.md/)
 - 🌱 Learning **Computer Science** at **Universitatea din Pitești,  Romania**
 - 🤔 My hobbies:
   - programming :computer: 
   - basketball :basketball:
-- 📫 You can reach me here: [Instagram](https://www.instagram.com/ionut.cucu/) and here: [LinkedIn](https://www.linkedin.com/in/ionut-nicu-cucu/)
-- :heart: Love to build Discord bots with Python
+- 📫 You can reach me here: [*Instagram*](https://www.instagram.com/ionut.cucu/) and here: [*LinkedIn*](https://www.linkedin.com/in/ionut-nicu-cucu/)
+- :heart: Love to build Discord bots with **Python**
 - :eyes: Speaking 3 languages, **fluently**
 - :man_technologist: **C/C++, Python, Databases(SQL/PL-SQL)** and basic stuff like **HTML, CSS, JS** (bit of **PHP(entry level)**)
