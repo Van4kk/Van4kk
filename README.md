@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is **Ionuț - Nicu** aka **Van4kk**. I'm 20 years old young boy from **Republic of Moldova** with a passion for programming..
 
@@ -10,6 +10,6 @@ Here are some facts about me:
   - programming :computer: 
   - basketball :basketball:
 - 📫 You can reach me here: [*Instagram*](https://www.instagram.com/ionut.cucu/) and here: [*LinkedIn*](https://www.linkedin.com/in/ionut-nicu-cucu/)
-- :heart: Love to build Discord bots with **Python**
+- :heart: Love to build **Discord** bots with **`Python`**
 - :eyes: Speaking 3 languages, **fluently**
-- :man_technologist: **C/C++, Python, Databases(SQL/PL-SQL)** and basic stuff like **HTML, CSS, JS** (bit of **PHP(entry level)**)
+- :man_technologist: **`C/C++, Python, Databases(SQL/PL-SQL)`** and basic stuff like **`HTML, CSS, JS, PHP(entry level)`**
