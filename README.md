@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is **Ionuț - Nicu** aka **Van4kk**. I'm 20 years old young boy from **Republic of Moldova** with a passion for programming..
+My name is **Ionuț - Nicu** aka **Van4kk**. I'm 20 years old young boy from **Republic of Moldova** with a passion for programming.
 
 Here are some facts about me:
 
