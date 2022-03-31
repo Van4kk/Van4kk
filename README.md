@@ -13,4 +13,4 @@ Here are some facts about me:
 - :heart: Love to build **Discord** bots with **`Python`**
 - :eyes: Speaking 3 languages, **fluentlys
 - :man_technologist: **`C/C++, Java, Python, Databases(mySQL/SQL/PL-SQL), PHP, JS`**
-:heart::heart::heart: #C++ :heart::heart::heart:
+#:heart::heart::heart: C++ :heart::heart::heart:
