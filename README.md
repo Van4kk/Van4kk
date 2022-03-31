@@ -11,5 +11,6 @@ Here are some facts about me:
   - basketball :basketball:
 - 📫 You can reach me here: [*Instagram*](https://www.instagram.com/ionut.cucu/) and [*LinkedIn*](https://www.linkedin.com/in/ionut-nicu-cucu/)
 - :heart: Love to build **Discord** bots with **`Python`**
-- :eyes: Speaking 3 languages, **fluently**
+- :eyes: Speaking 3 languages, **fluentlys
 - :man_technologist: **`C/C++, Java, Python, Databases(mySQL/SQL/PL-SQL), PHP, JS`**
+-  #C++  :heart:
