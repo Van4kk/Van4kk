@@ -9,7 +9,6 @@ Here are some facts about me:
 - 🤔 My hobbies:
   - programming :computer: 
   - basketball :basketball:
-- 📫 You can reach me here: [*Instagram*](https://www.instagram.com/ionut.cucu/) and [*LinkedIn*](https://www.linkedin.com/in/ionut-nicu-cucu/)
 - :eyes: Speaking 3 languages, **fluently**
 - :man_technologist: **`C/C++, Java, Databases(mySQL/SQL/PL-SQL), PHP`**
 
