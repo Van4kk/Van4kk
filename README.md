@@ -13,4 +13,4 @@ Here are some facts about me:
 - :man_technologist: **`C/C++, Java, Databases(mySQL/SQL/PL-SQL), PHP`**
 
 
-# :heart::heart::heart: C++ :heart::heart::heart:
+# :heart::heart::heart: Java :heart::heart::heart:
