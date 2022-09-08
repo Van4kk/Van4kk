@@ -1,3 +1,5 @@
+[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
+
 # Hi there 👋
 
 My name is **Ionuț - Nicu** aka **Van4kk**. I'm 20 years old young boy from **Republic of Moldova** with a passion for programming.
