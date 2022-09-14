@@ -7,7 +7,7 @@ My name is **Ionuț - Nicu** aka **Van4kk**. I'm 20 years old young boy from **R
 Here are some facts about me:
 
 - 🔭 I’m currently working on WEB application for [**redBUS**](http://chisinau-craiova.md/)
-- 🌱 Learning **Computer Science** at **Universitatea din Pitești,  Romania**
+- 🌱 Studying at **Universitatea din Pitești,  Romania**
 - 🤔 My hobbies:
   - programming :computer: 
   - basketball :basketball:
