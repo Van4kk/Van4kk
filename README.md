@@ -12,5 +12,5 @@ Here are some facts about me:
   - programming :computer: 
   - basketball :basketball:
 - :eyes: Speaking 3 languages, **fluently**
-- :man_technologist: **`C/C++, Java, Databases(mySQL/SQL), PHP`**
+- :man_technologist: **`C/C++, Java, PHP`**
 
