@@ -9,7 +9,7 @@ Here are some facts about me:
 - 🔭 Currently working on personal projects
 - 🎓 Studying at **Universitatea din Pitești,  Romania**
 - 🤔 My hobbies:
-  - programming :computer: 
+  - programming :computer:
   - basketball :basketball:
 - :eyes: Speaking 3 languages, **fluently**
 - :man_technologist: **`C/C++, Java, PHP`**
@@ -18,7 +18,7 @@ Here are some facts about me:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=0d1117&color=30363d&line=e6edf3&point=a371ed&area=true&hide_border=true">
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true">
-  <img alt="Ionut's github activity graph white theme" src="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true">
+  <img alt="Ionut's github activity graph white theme" src="">
 </picture>
 
 <picture>
