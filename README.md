@@ -17,33 +17,13 @@ Here are some facts about me:
 [//]: # (Ionut's github activity graph)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=0d1117&color=30363d&line=e6edf3&point=a371ed&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true">
   <img alt="Ionut's github activity graph white theme" src="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true">
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=0d1117&color=30363d&line=e6edf3&point=a371ed&area=true&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Van4kk&show_icons=true"  alt=""/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=0d1117&color=30363d&line=e6edf3&point=a371ed&area=true&hide_border=true">
-  <img alt="" src="">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="">
-  <img alt="" src="">
-</picture>
-
-![Ionut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Van4kk)
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=Van4kk&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Van4kk&show_icons=true"  alt=""/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Van4kk&show_icons=true&theme=dark">
+  <img alt="Ionut's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Van4kk">
 </picture>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laravel-Lang&repo=lang&show_owner=true)
