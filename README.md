@@ -14,10 +14,24 @@ Here are some facts about me:
 - :eyes: Speaking 3 languages, **fluently**
 - :man_technologist: **`C/C++, Java, PHP`**
 
-[![Ionut's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=0d1117&color=30363d&line=e6edf3&point=a371ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[//]: # (Ionut's github activity graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=0d1117&color=30363d&line=e6edf3&point=a371ed&area=true&hide_border=true">
+  <img alt="Ionut's github activity graph white theme" src="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true">
+</picture>
+
 <picture>
   <source srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=0d1117&color=30363d&line=e6edf3&point=a371ed&area=true&hide_border=true" media="(prefers-color-scheme: dark)" />
   <img src="https://github-readme-stats.vercel.app/api?username=Van4kk&show_icons=true"  alt=""/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=0d1117&color=30363d&line=e6edf3&point=a371ed&area=true&hide_border=true">
+  <img alt="" src="">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="">
+  <img alt="" src="">
 </picture>
 
 ![Ionut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Van4kk)
