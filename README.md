@@ -1,5 +1,15 @@
 [<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=0d1117&color=30363d&line=e6edf3&point=a371ed&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true">
+  <img alt="Ionut's github activity graph white theme" src="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true">
+</picture>
+
+![dark](https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=0d1117&color=30363d&line=e6edf3&point=a371ed&area=true&hide_border=true)
+
+![light](https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true)
+
 # Hi there 👋
 
 My name is **Ionuț - Nicu** aka **Van4kk**. I'm 21 years old young boy from **Republic of Moldova** with a passion for programming.
