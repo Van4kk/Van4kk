@@ -15,11 +15,9 @@ Here are some facts about me:
 - :man_technologist: **`C/C++, Java, PHP`**
 
 [//]: # (Ionut's github activity graph)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=0d1117&color=30363d&line=e6edf3&point=a371ed&area=true&hide_border=true">
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true">
-  <img alt="Ionut's github activity graph white theme" src="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=0d1117&color=30363d&line=e6edf3&point=a371ed&area=true&hide_border=true">
-</picture>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img alt="Ionut's github activity graph white theme" src="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=transparent&color=30363d&line=e6edf3&point=a371ed&area=true&hide_border=true">
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Van4kk&show_icons=true&theme=dark">
