@@ -5,6 +5,7 @@
 <br>
 <br>
 
+<!-- SVG Typing -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=3500&pause=3500&color=A371ED&center=true&width=435&lines=Heeeeeeeeeeeeeeeeeeeeey!;My+name+is+Ionu%C8%9B+-+Nicu;I'm+21+years+old+young+boy+from;Republic+of+Moldova;with+a+passion+for+programming.">
@@ -16,38 +17,38 @@
 <br>
 <br>
 
+<!-- Ionut's GitHub streaks -->
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Van4kk&show_icons=true&theme=dark">
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true"> 
+        <img alt="Ionut's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Van4kk">
+    </picture>
+</div>
+
+<!-- Ionut's GitHub stats -->
+<div align="center">  
+  <picture>
+    <source width="53%" height="199px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Van4kk&show_icons=true&theme=dark">
+    <source width="53%" height="199px" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true"> 
+    <img width="53%" height="199px" alt="Ionut's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Van4kk">
+  </picture>
+  <picture>
+    <source width="40%" height="199px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Van4kk&layout=compact&langs_count=10">
+    <source width="40%" height="199px" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Van4kk&layout=compact&langs_count=10"> 
+    <img width="40%" height="199px" alt="Ionut's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Van4kk&layout=compact&langs_count=10">
+  </picture>
+</div>
+
+<br>
+<br>
+<!-- Ionut's GitHub activity graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=0d1117&color=30363d&line=e6edf3&point=a371ed&area=true&hide_border=true">
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true">
   <img alt="Ionut's github activity graph white theme" src="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true">
 </picture>
 
-
-# Hi there 👋
-
-My name is **Ionuț - Nicu** aka **Van4kk**. I'm 21 years old young boy from **Republic of Moldova** with a passion for programming.
-
-Here are some facts about me:
-
-- 🔭 Currently working on personal projects
-- 🎓 Studying at **Universitatea din Pitești,  Romania**
-- 🤔 My hobbies:
-  - programming :computer:
-  - basketball :basketball:
-- :eyes: Speaking 3 languages, **fluently**
-- :man_technologist: **`C/C++, Java, PHP`**
-
-[//]: # (Ionut's github activity graph)
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img alt="Ionut's github activity graph white theme" src="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&custom_title=My%20contributions%20history%20graph&bg_color=transparent&color=30363d&line=e6edf3&point=a371ed&area=true&hide_border=true">
-</a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Van4kk&show_icons=true&theme=dark">
-  <img alt="Ionut's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Van4kk">
-</picture>
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laravel-Lang&repo=lang&show_owner=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Van4kk&layout=compact&langs_count=10)
 
 
