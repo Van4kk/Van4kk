@@ -36,7 +36,7 @@
         <source width="53%" height="199px" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true"> 
         <img width="53%" height="199px" alt="Ionut's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Van4kk">
     </picture>
-    <!-- Ionut's GitHub stats -->
+    <!-- Ionut's favorit language -->
     <picture>
         <source width="40%" height="199px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Van4kk&layout=compact&langs_count=10">
         <source width="40%" height="199px" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Van4kk&layout=compact&langs_count=10"> 
