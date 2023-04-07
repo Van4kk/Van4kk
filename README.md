@@ -32,7 +32,7 @@
 <div align="center">  
     <!-- Ionut's GitHub stats -->
     <picture>
-        <source width="53%" height="199px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Van4kk&show_icons=true&theme=dark">
+        <source width="53%" height="199px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Van4kk&show_icons=true&theme=transparent&title_color=794ECA&text_color=ffffff">
         <source width="53%" height="199px" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true"> 
         <img width="53%" height="199px" alt="Ionut's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Van4kk">
     </picture>
