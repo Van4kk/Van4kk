@@ -1,14 +1,16 @@
 [<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
 
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=3500&pause=3500&color=A371ED&center=true&width=435&lines=Heeeeeeeeeeeeeeeeeeeeey!;My+name+is+Ionu%C8%9B+-+Nicu;I'm+21+years+old+young+boy+from;Republic+of+Moldova;with+a+passion+for+programming.)](https://git.io/typing-svg)
+</div>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=0d1117&color=30363d&line=e6edf3&point=a371ed&area=true&hide_border=true">
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true">
   <img alt="Ionut's github activity graph white theme" src="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true">
 </picture>
 
-![dark](https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=0d1117&color=30363d&line=e6edf3&point=a371ed&area=true&hide_border=true)
-
-![light](https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true)
 
 # Hi there 👋
 
