@@ -6,7 +6,7 @@
 <br>
 
 <!-- SVG Typing -->
-<div align="center">
+<div align="center" id="top">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=3500&pause=3500&color=A371ED&center=true&width=435&lines=Heeeeeeeeeeeeeeeeeeeeey!;My+name+is+Ionu%C8%9B+-+Nicu;I'm+21+years+old+young+boy+from;Republic+of+Moldova;with+a+passion+for+programming.">
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=3500&pause=3500&color=8253DF&center=true&width=435&lines=Heeeeeeeeeeeeeeeeeeeeey!;My+name+is+Ionu%C8%9B+-+Nicu;I'm+21+years+old+young+boy+from;Republic+of+Moldova;with+a+passion+for+programming.">
@@ -28,16 +28,18 @@
 
 <!-- Ionut's GitHub stats -->
 <div align="center">  
-  <picture>
-    <source width="53%" height="199px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Van4kk&show_icons=true&theme=dark">
-    <source width="53%" height="199px" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true"> 
-    <img width="53%" height="199px" alt="Ionut's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Van4kk">
-  </picture>
-  <picture>
-    <source width="40%" height="199px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Van4kk&layout=compact&langs_count=10">
-    <source width="40%" height="199px" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Van4kk&layout=compact&langs_count=10"> 
-    <img width="40%" height="199px" alt="Ionut's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Van4kk&layout=compact&langs_count=10">
-  </picture>
+    <!-- Ionut's GitHub stats -->
+    <picture>
+        <source width="53%" height="199px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Van4kk&show_icons=true&theme=dark">
+        <source width="53%" height="199px" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true"> 
+        <img width="53%" height="199px" alt="Ionut's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Van4kk">
+    </picture>
+    <!-- Ionut's GitHub stats -->
+    <picture>
+        <source width="40%" height="199px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Van4kk&layout=compact&langs_count=10">
+        <source width="40%" height="199px" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Van4kk&layout=compact&langs_count=10"> 
+        <img width="40%" height="199px" alt="Ionut's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Van4kk&layout=compact&langs_count=10">
+    </picture>
 </div>
 
 <br>
@@ -51,7 +53,23 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Van4kk&layout=compact&langs_count=10)
 
-
-<a href="https://github.com/Van4kk"><img src="https://img.shields.io/github/followers/Van4kk?color=green&label=Follower"></a>
-<a href="https://github.com/Van4kk">![visitors](https://visitor-badge.laobi.icu/badge?page_id=Van4kk.Van4kk)</a>
-
+<div>
+    <div align="left" style="width: 50%; float: left;">
+        <a href="https://github.com/Van4kk">
+            <img src="https://img.shields.io/github/followers/Van4kk?color=green&label=Followers" alt="">
+        </a>
+        <a href="https://github.com/Van4kk">
+            <img src="https://visitor-badge.laobi.icu/badge?page_id=Van4kk.Van4kk" alt="">
+        </a>
+    </div>
+    <!-- Back to Top button -->
+    <div align="right" style="width: 50%; float: right;">
+        <a href="#top" style="margin-bottom: 10px;">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Back%20to%20top-794ECA?style=flat">
+                <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://img.shields.io/badge/Back%20to%20top-8453DF?style=flat">
+                <img alt="Ionut's github activity graph white theme" src="https://img.shields.io/badge/Back%20to%20top-8453DF?style=flat">
+            </picture>
+        </a>
+    </div>
+</div>
