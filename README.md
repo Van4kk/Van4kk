@@ -16,7 +16,7 @@ Here are some facts about me:
 
 [//]: # (Ionut's github activity graph)
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img alt="Ionut's github activity graph white theme" src="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=transparent&color=30363d&line=e6edf3&point=a371ed&area=true&hide_border=true">
+  <img alt="Ionut's github activity graph white theme" src="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&custom_title=My%20contributions%20history%20graph&bg_color=transparent&color=30363d&line=e6edf3&point=a371ed&area=true&hide_border=true">
 </a>
 
 <picture>
