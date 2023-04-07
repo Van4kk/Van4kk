@@ -1,7 +1,13 @@
 [<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
 
+<br>
+<br>
+<br>
+<br>
+
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=3500&pause=3500&color=A371ED&center=true&width=435&lines=Heeeeeeeeeeeeeeeeeeeeey!;My+name+is+Ionu%C8%9B+-+Nicu;I'm+21+years+old+young+boy+from;Republic+of+Moldova;with+a+passion+for+programming.)](https://git.io/typing-svg)
+  
+  ![SVG Typing](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=3500&pause=3500&color=A371ED&center=true&width=435&lines=Heeeeeeeeeeeeeeeeeeeeey!;My+name+is+Ionu%C8%9B+-+Nicu;I'm+21+years+old+young+boy+from;Republic+of+Moldova;with+a+passion+for+programming.)
 </div>
 
 
