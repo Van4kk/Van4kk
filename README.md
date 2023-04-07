@@ -53,8 +53,6 @@
   <img alt="Ionut's github activity graph white theme" src="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=transprent&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true">
 </picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Van4kk&layout=compact&langs_count=10)
-
 <br>
 <br>
 <br>
