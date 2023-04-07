@@ -20,9 +20,9 @@
 <!-- Ionut's GitHub streaks -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Van4kk&show_icons=true&theme=dark">
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Van4kk&bg_color=ffffff&color=1f2328&line=d0d7de&point=8253df&area=true&hide_border=true"> 
-        <img alt="Ionut's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Van4kk">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Van4kk&theme=swift&hide_border=true&date_format=j%20M%5B%20Y%5D&background=EB545400&border=EB545400&stroke=30363DE4&ring=794ECA&fire=794ECA&currStreakNum=794ECA&sideNums=794ECA&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=E6EDF3">
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Van4kk&theme=swift&hide_border=true&date_format=j%20M%5B%20Y%5D&background=EB545400&border=EB545400&stroke=D0D7DE&ring=8453DF&fire=8453DF&currStreakNum=8453DF&sideNums=8453DF&currStreakLabel=1F2328&sideLabels=1F2328&dates=1F2328"> 
+        <img alt="Ionut's GitHub stats" src="https://github-readme-streak-stats.herokuapp.com?user=Van4kk&theme=swift&hide_border=true&date_format=j%20M%5B%20Y%5D&background=EB545400&border=EB545400&stroke=D0D7DE&ring=8453DF&fire=8453DF&currStreakNum=8453DF&sideNums=8453DF&currStreakLabel=1F2328&sideLabels=1F2328&dates=1F2328">
     </picture>
 </div>
 
