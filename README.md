@@ -53,13 +53,24 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Van4kk&layout=compact&langs_count=10)
 
+<br>
+<br>
+<br>
+<br>
+
+<!-- Footer -->
 <div>
+    <!-- Tracks -->
     <div align="left" style="width: 50%; float: left;">
         <a href="https://github.com/Van4kk">
             <img src="https://img.shields.io/github/followers/Van4kk?color=green&label=Followers" alt="">
         </a>
         <a href="https://github.com/Van4kk">
-            <img src="https://visitor-badge.laobi.icu/badge?page_id=Van4kk.Van4kk" alt="">
+            <!-- <picture>
+                <source>
+                <source>
+            </picture> -->
+            <img src="https://visitor-badge.laobi.icu/badge?page_id=Van4kk.Van4kk" alt="Visitors">
         </a>
     </div>
     <!-- Back to Top button -->
@@ -68,7 +79,7 @@
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Back%20to%20top-794ECA?style=flat">
                 <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://img.shields.io/badge/Back%20to%20top-8453DF?style=flat">
-                <img alt="Ionut's github activity graph white theme" src="https://img.shields.io/badge/Back%20to%20top-8453DF?style=flat">
+                <img alt="Back to top button" src="https://img.shields.io/badge/Back%20to%20top-8453DF?style=flat">
             </picture>
         </a>
     </div>
