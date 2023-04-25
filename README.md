@@ -39,7 +39,7 @@
     <!-- Ionut's favorit language -->
     <picture>
         <source width="40%" height="199px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Van4kk&layout=compact&langs_count=10&theme=transparent&text_color=E6EDF3&title_color=794ECA&hide_border=true">
-        <source width="40%" height="199px" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Van4kk&layout=compact&langs_count=10&theme=transparent&title_color=8453DF&hide_border=true"> 
+        <source width="40%" height="199px" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Van4kk&layout=compact&langs_count=10&theme=transparent&title_color=8453DF&text_color=1F2328&hide_border=true"> 
         <img width="40%" height="199px" alt="Ionut's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Van4kk&layout=compact&langs_count=10&hide_border=true">
     </picture>
 </div>
