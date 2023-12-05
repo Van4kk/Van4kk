@@ -12,7 +12,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=3500&pause=3500&color=A371ED&center=true&width=435&lines=Heeeeeeeeeeeeeeeeeeeeey!;My+name+is+Ionu%C8%9B+-+Nicu;I'm+21+years+old+young+boy+from;Republic+of+Moldova;with+a+passion+for+programming.">
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=3500&pause=3500&color=8253DF&center=true&width=435&lines=Heeeeeeeeeeeeeeeeeeeeey!;My+name+is+Ionu%C8%9B+-+Nicu;I'm+21+years+old+young+boy+from;Republic+of+Moldova;with+a+passion+for+programming.">
-    <img alt="Ionut's github activity graph white theme" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=3500&pause=3500&color=8253DF&center=true&width=435&lines=Heeeeeeeeeeeeeeeeeeeeey!;My+name+is+Ionu%C8%9B+-+Nicu;I'm+21+years+old+young+boy+from;Republic+of+Moldova;with+a+passion+for+programming.">
+    <img alt="Ionut's github activity graph white theme" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=3500&pause=3500&color=8253DF&center=true&width=435&lines=Heeeeeeeeeeeeeeeeeeeeey!;My+name+is+Ionu%C8%9B+-+Nicu;I'm+22+years+old+young+boy+from;Republic+of+Moldova;with+a+passion+for+programming.">
   </picture>
 </div>
 
