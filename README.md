@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<a href="https://supportukrainenow.org" target="_blank">
+<a href="https://supportukrainenow.org" target="_blank" rel="noopener noreferrer">
   <img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />
 </a>
 
